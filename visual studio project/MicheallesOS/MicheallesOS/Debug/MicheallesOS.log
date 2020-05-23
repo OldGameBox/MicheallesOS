@@ -1,0 +1,4 @@
+﻿  setup.cpp
+C:\Users\MrKum\source\repos\MicheallesOS\MicheallesOS\setup.cpp(42,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+C:\Users\MrKum\source\repos\MicheallesOS\MicheallesOS\setup.cpp(44,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+  MicheallesOS.vcxproj -> C:\Users\MrKum\source\repos\MicheallesOS\Debug\MicheallesOS.exe
